@@ -11,3 +11,5 @@ df = df1.copy()
 df.head()
 ```
 <img width="860" alt="Screenshot 2025-03-06 at 1 35 20 PM" src="https://github.com/user-attachments/assets/5e32e98e-b6a3-40bb-9413-621de2ccf544" />
+
+Plus d'information est disponible ici: https://www.kaggle.com/code/nihandincer/customer-relationship-management-crm/notebook 
