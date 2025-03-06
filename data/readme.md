@@ -4,7 +4,7 @@
 # Reading the dataset
 import pandas as pd
 
-df1 = pd.read_excel("/kaggle/input/online-retail-ii-data-set-from-ml-repository/online_retail_II.xlsx", sheet_name="Year 2009-2010")
+df1 = pd.read_excel("data/online_retail_II.xlsx", sheet_name="Year 2009-2010")
 
 # Copy and display the header
 df = df1.copy()
