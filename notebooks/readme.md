@@ -4,3 +4,4 @@
 [https://colab.research.google.com/github/towardsai/cours-demo-notebooks/blob/main/notebooks/Basic_RAG.ipynb](https://colab.research.google.com/github/towardsai/cours-demo-notebooks/blob/main/notebooks/Basic_RAG.ipynb)
 [https://colab.research.google.com/github/towardsai/cours-demo-notebooks/blob/main/notebooks/Long_Context_Caching_vs_RAG.ipynb](https://colab.research.google.com/github/towardsai/cours-demo-notebooks/blob/main/notebooks/Long_Context_Caching_vs_RAG.ipynb)
 [https://colab.research.google.com/github/towardsai/cours-demo-notebooks/blob/main/notebooks/RAG_with_LlamaIndex.ipynb](https://colab.research.google.com/github/towardsai/cours-demo-notebooks/blob/main/notebooks/RAG_with_LlamaIndex.ipynb)
+[https://colab.research.google.com/github/towardsai/ai-tutor-rag-system/blob/main/notebooks/GPT_4o_mini_Fine_Tuning.ipynb](https://colab.research.google.com/github/towardsai/ai-tutor-rag-system/blob/main/notebooks/GPT_4o_mini_Fine_Tuning.ipynb)
