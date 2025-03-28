@@ -1,0 +1,17 @@
+openai
+anthropic
+google-generativeai
+instructor
+gradio
+python-dotenv
+pandas
+pydantic
+tiktoken
+ipykernel
+llama-index
+langchain
+cohere
+numpy
+pymysql
+openpyxl
+logfire
